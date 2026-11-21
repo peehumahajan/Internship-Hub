@@ -1,5 +1,5 @@
 {
-  "name": "internship-portal-backend",
+  "name": "internship-hub-frontend",
   "version": "1.0.0",
   "description": "Backend for Internship Management Portal (Auth, Attendance, Analytics modules)",
   "main": "src/server.js",

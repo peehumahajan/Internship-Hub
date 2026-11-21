@@ -1,4 +1,4 @@
-# Internship Management Portal
+# Internship Hub
 
 A full-stack web app for managing internship programs — applications, tasks, attendance, certificates, announcements, analytics, and an in-app AI assistant. Built as a **React + Vite** frontend and a **Node.js + Express + MongoDB** backend.
 
